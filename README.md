@@ -139,10 +139,4 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ⭐ If you like this project, don’t forget to give it a star!
