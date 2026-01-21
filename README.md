@@ -115,12 +115,6 @@ The application will be available at:
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots or GIF previews here to showcase the UI._
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
