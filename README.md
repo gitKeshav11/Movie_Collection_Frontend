@@ -5,6 +5,7 @@ This project demonstrates real-world frontend development practices with a clean
 
 ---
 
+
 ## 🌟 Project Overview
 
 Movie Gold allows users to explore movies, watch trailers, and read or submit reviews through a clean and responsive interface.  
